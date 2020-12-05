@@ -1,16 +1,20 @@
 .nav-link:visited {
-color: black;
+  color: black;
 }
 .navbar-light .navbar-brand {
-    color: rgba(255, 255, 255, 0.9);
-    background-color: #4FAAA5;
+  color: rgba(255, 255, 255, 0.9);
+  background-color: #4faaa5;
 }
 body {
-    background-image: url("./assets/images/background.png");
-    background-color: rgb(198, 198, 198);
+  background-image: url("./assets/images/background.png");
+  background-color: rgb(198, 198, 198);
+}
+body h1 {
+  font-family: serif;
+  color: #4faaa5;
 }
 img {
-    float: left;
-    margin-right: 5%;
-    margin-bottom: 2%;
+  float: left;
+  margin-right: 5%;
+  margin-bottom: 2%;
 }
