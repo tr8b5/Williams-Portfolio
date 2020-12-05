@@ -1,7 +1,11 @@
-.nav-link:active {
+.nav-link:visited {
 color: black;
 }
 .navbar-light .navbar-brand {
     color: rgba(255, 255, 255, 0.9);
     background-color: #4FAAA5;
+}
+body {
+    background-image: url("./assets/images/background.png");
+    background-color: rgb(198, 198, 198);
 }
