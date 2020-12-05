@@ -37,6 +37,14 @@ img {
 .flink {
     color: white;
 }
+.fmenu {
+    align-content: center;
+}
+small {
+color: white;
+text-align: center;
+font-size: 15px;
+}
 .footer {
-    background-color: #4faaa5;;
+    background-color: #4faaa5;
 }
