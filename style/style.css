@@ -1,11 +1,14 @@
-.nav-link:visited {
-  color: black;
-}
 .navbar-light .navbar-brand {
   color: rgba(255, 255, 255, 0.9);
   background-color: #4faaa5;
   font-family: serif;
   font-size: x-large;
+}
+.navbar-brand {
+  color: rgba(255, 255, 255, 0.9);
+  background-color: #4faaa5;
+  font-family: serif;
+  font-size: 40px;
 }
 body {
   background-image: url(../assets/images/background.png)
@@ -30,6 +33,9 @@ img {
     border-color: #4faaa5;
     margin-left: -2%;
 
+}
+.flink {
+    color: white;
 }
 .footer {
     background-color: #4faaa5;;
