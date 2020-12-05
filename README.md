@@ -21,6 +21,6 @@ Sytems Used
 Screenshots
 
 ![Screenshot of website 1](/assets/images/scrsht1.png)
-![Screenshot of website 2](/images/scrsht2.png)
-![Screenshot of website 3](/images/scrsht3.png)
-![Screenshot of website 3](/images/scrsht4.png)
+![Screenshot of website 2](/assets/images/scrsht2.png)
+![Screenshot of website 3](/assets/images/scrsht3.png)
+![Screenshot of website 3](/assets/images/scrsht4.png)
