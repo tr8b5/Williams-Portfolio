@@ -23,6 +23,9 @@ img {
   margin-right: 5%;
   margin-bottom: 2%;
 }
+.lead {
+    font-size: medium;
+}
 .btn {
 
     padding-bottom: 3%;
@@ -37,15 +40,27 @@ img {
 .flink {
     color: white;
 }
-.fmenu {
-    align-content: center;
-}
 small {
 color: white;
 text-align: center;
 font-size: 15px;
 }
+.fmenu {
+    text-align: right;
+}
 .footer {
-    background-color: gray;
+    background-color: #666666;
     border-top: 8px solid #4faaa5;
 }
+@media only screen and (max-width: 575px) {
+    .row {
+      margin-right: 5%;
+    }
+    .footer {
+        text-align: center;
+    }
+    .fmenu {
+        margin-top: 5%;
+        text-align: center;
+    }
+  }
