@@ -9,3 +9,8 @@ body {
     background-image: url("./assets/images/background.png");
     background-color: rgb(198, 198, 198);
 }
+img {
+    float: left;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
